@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.tab-head {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #7b8794;
+  border: none;
+  background-color: inherit;
+}
+.tab-btn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
